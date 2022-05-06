@@ -1,0 +1,24 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것
+
+- 여러가지 웹페이지들!
+- 개발자로써 성장해 나가는 걸 보여줄 수 있는 프로젝트들
+
+2. 1주차 주요 개념
+
+- git 초기화 (git initialize) : 컴퓨터에 있는 프로젝트를 git으로 관리하는 것으로 만들기 .git폴더가 생성됨!
+
+- commit : 현재 내 프로젝트 상황을 저장하는 것, 작업 내용을 잘 알아볼수 있도록 commit 메세지 잘 작성하기
+
+- add / staging : commit에 반영할지 안할지 선택하는 것 
+
+- commit history : 지금까지 commit 한 내용들이 나열되어있는 것 
+
+- repository : git으로 관리되는 프로젝트를 git 에서 repo 라고 부른다
+ - local repo : 내 컴퓨터에 저장되어있는 것 
+ - remote repo : github처럼 다른 곳에서 접속할 수 있는 공간에 저장되어 있는 것
+
+- push : 로컬 repo를 원격 repo에 저장!
+
+- pull : 원격 repo에 있는 것을 로컬 repo로 불러오는 것!
+
+- clone : 원격 repo를 내 컴퓨터로 가져오는 것 (다운로드 개념 )
